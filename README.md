@@ -29,17 +29,17 @@ WhisperChat is a secure and ephemeral chat platform designed for complete anonym
 
 ## Usage Flow 📖
 
-### **I.Start a Secure Chat:**
-1. Open WhisperChat and create a new chat session. ➕
+### **A.Start a Secure Chat:**
+1. Open WhisperChat and create a new chat session. 
 2. Share the unique room code with the other participant. 
 
-### **II.Join a Chat:**
-1. Enter the room code received from another user. 🔗
+### **B.Join a Chat:**
+1. Enter the room code received from another user. 
 
-### **III.Chat Privately:**
-- Exchange messages securely and anonymously. 💬
+### **C.Chat Privately:**
+- Exchange messages securely and anonymously. 
 
-### **IV.End the Session:**
+### **D.End the Session:**
 - Closing the chat window erases all messages permanently. 🛑
 
 
