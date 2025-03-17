@@ -4,27 +4,27 @@
 
 WhisperChat is a secure and ephemeral chat platform designed for complete anonymity. With no logs, no saved messages, and end-to-end encryption, it ensures your conversations remain private and temporary. Communicate freely without worrying about leaving a digital trace.
 
-## Features ✨
+## Features 🛠️
 
 - **End-to-End Encryption:** Ensuring all messages remain private and secure. 🔐
 - **Anonymous Chat:** No registration or login required—just join and chat. 👥
 - **Self-Destructing Messages:** Messages vanish as soon as the chat ends. 🕒
 - **Cross-Platform Compatibility:** Seamlessly accessible on mobile and desktop. 📱💻
 
-## Tech Stack 🛠️
+## Tech Used 
 
 ### **Frontend:**
-- React ⚛️
-- TypeScript 📝
-- Tailwind CSS 🎨
-- Vite ⚡
-- Deployed on Vercel 🚀
+- React 
+- TypeScript 
+- Tailwind CSS 
+- Vite 
+- Deployed on Vercel 
 
 ### **Backend:**
-- Node.js 🟢
-- TypeScript 📝
-- WebSockets 🌐
-- Deployed on Render 🌍
+- Node.js 
+- TypeScript 
+- WebSockets 
+- Deployed on Render 
 
 
 ## Usage Flow 📖
@@ -43,7 +43,9 @@ WhisperChat is a secure and ephemeral chat platform designed for complete anonym
 - Closing the chat window erases all messages permanently. 🛑
 
 
-📬 Thank you for checking out WhisperChat! If you have any questions or feedback, feel free to open an issue or contact me at **amritangshu.official@gmail.com**.
+📬 Thank you for checking out WhisperChat! 
+
+If you have any questions or feedback, feel free to open an issue or contact me at **amritangshu.official@gmail.com**.
 
 
 
