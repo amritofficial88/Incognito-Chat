@@ -2,7 +2,7 @@
 
 **Your Conversations, Your Privacy 🛡️**
 
-WhisperChat is a secure and ephemeral chat platform designed for complete anonymity. With no logs, no saved messages, and end-to-end encryption, it ensures your conversations remain private and temporary. Communicate freely without worrying about leaving a digital trace. 💬🔒
+WhisperChat is a secure and ephemeral chat platform designed for complete anonymity. With no logs, no saved messages, and end-to-end encryption, it ensures your conversations remain private and temporary. Communicate freely without worrying about leaving a digital trace.
 
 ## Features ✨
 
