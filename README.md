@@ -18,13 +18,13 @@ WhisperChat is a secure and ephemeral chat platform designed for complete anonym
 - TypeScript 
 - Tailwind CSS 
 - Vite 
-- Deployed on Vercel 
+- Deploying on Vercel (Ongoing)
 
 ### **Backend:**
 - Node.js 
 - TypeScript 
 - WebSockets 
-- Deployed on Render 
+- Deploying on Render (Ongoing)
 
 
 ## Usage Flow 📖
