@@ -18,23 +18,23 @@ Incognito Chat is a secure and ephemeral chat platform designed for complete ano
 - TypeScript 
 - Tailwind CSS 
 - Vite 
-- Deploying on Vercel (Ongoing)
+- Deploying on Vercel
 
 ### **Backend:**
 - Node.js 
 - TypeScript 
 - WebSockets 
-- Deploying on Render (Ongoing)
+- Deploying on Render
 
 
 ## Usage Flow 📖
 
 ### **A.Start a Secure Chat:**
-1. Open Incognito Chat and create a new chat session. 
-2. Share the unique room code with the other participant. 
+- Open Incognito Chat and create a new chat session.
+- Share the unique room code with the other participant. 
 
 ### **B.Join a Chat:**
-1. Enter the room code received from another user. 
+- Enter the room code received from another user. 
 
 ### **C.Chat Privately:**
 - Exchange messages securely and anonymously. 
