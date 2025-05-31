@@ -1,8 +1,8 @@
-# WhisperChat
+# Incognito Chat
 
 **Your Conversations, Your Privacy 🛡️**
 
-WhisperChat is a secure and ephemeral chat platform designed for complete anonymity. With no logs, no saved messages, and end-to-end encryption, it ensures your conversations remain private and temporary. Communicate freely without worrying about leaving a digital trace.
+Incognito Chat is a secure and ephemeral chat platform designed for complete anonymity. With no logs, no saved messages, and end-to-end encryption, it ensures your conversations remain private and temporary. Communicate freely without worrying about leaving a digital trace.
 
 ## Features 🛠️
 
@@ -30,7 +30,7 @@ WhisperChat is a secure and ephemeral chat platform designed for complete anonym
 ## Usage Flow 📖
 
 ### **A.Start a Secure Chat:**
-1. Open WhisperChat and create a new chat session. 
+1. Open Incognito Chat and create a new chat session. 
 2. Share the unique room code with the other participant. 
 
 ### **B.Join a Chat:**
@@ -43,7 +43,7 @@ WhisperChat is a secure and ephemeral chat platform designed for complete anonym
 - Closing the chat window erases all messages permanently. 🛑
 
 
-📬 Thank you for checking out WhisperChat! 
+📬 Thank you for checking out Incognito Chat! 
 
 If you have any questions or feedback, feel free to open an issue or contact me at **amritangshu.official@gmail.com**.
 
