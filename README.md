@@ -18,7 +18,6 @@ Incognito Chat is a secure and ephemeral chat platform designed for complete ano
 - TypeScript 
 - Tailwind CSS 
 - Vite 
-- Deploying on Vercel
 
 ### **Backend:**
 - Node.js 
